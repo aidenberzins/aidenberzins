@@ -4,7 +4,7 @@
 
 - 💻 Current Learning: VIM, Rust, and Pen Testing
 - 📕 Current Reading: The Ego is The Enemy (Ryan Holiday, 2016)
-- 🐕 Current Habit: I spend most of my free time coding, but on the off chance I'm not behind my keyboard, I am probably throwing sticks to one of my goofballs. 🐾
+- 🐕 Current Habit: I spend most of my free time coding, but on the off chance I'm not behind my keyboard or playing Sky, I am probably throwing sticks to one of my goofballs. 🐾
 
 <p align="center">🎉 If you're hiring, let's chat! 🎉</p>
 
