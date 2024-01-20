@@ -6,14 +6,6 @@
 - 📕 Current Reading: The Ego is The Enemy (Ryan Holiday, 2016)
 - 🐕 Current Habit: I spend most of my free time coding, but on the off chance I'm not behind my keyboard or playing Sky, I am probably throwing sticks to one of my goofballs. 🐾
 
-<p align="center">🎉 If you're hiring, let's chat! 🎉</p>
-
-
-#### Get In Touch 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@aidenberzins.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-](https://www.linkedin.com/in/aidenberzins/)
-
 ### Testimonials
 
 <table>
@@ -29,13 +21,21 @@
   </tr>
   <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/colleen-conroy-ba6915217/">Coco&nbsp;Conroy</a></td>
-    <td>Aiden is the loveliest to work with! While our paths didn't cross often, me in operations/Aiden in engineering, I knew I could rely on Aiden to be a team player and bring care and thoughtfulness to my tech questions. <strong>Aiden is a great communicator who values kindness, teamwork, and thorough contextual explanations to complex problems.</strong> Easy to see why he was so well liked in the company. Hire him!</td>
+    <td>Aiden is the loveliest to work with! While our paths didn't cross often, me in operations/Aiden in engineering, I knew I could rely on Aiden to be a team player and bring care and thoughtfulness to my tech questions. <strong>Aiden is a great communicator who values kindness, teamwork, and thorough contextual explanations to complex problems.</strong> Easy to see why he was so well-liked in the company. Hire him!</td>
   </tr>
   <tr>
     <td><a target="_blank" href="https://www.linkedin.com/in/christine-yoo-cy/">Christine&nbsp;Yoo</a></td>
     <td>I've had the pleasure of working with Aiden, a software engineer whose talent and collaborative spirit are evident in every project. During our work on a major new feature, Aiden's full stack (and especially backend) expertise was invaluable. He not only helped us meet our deadlines but also contributed towards maintaining a high standard of code quality. His knowledge and enthusiasm for new technologies have brought fresh perspectives and innovative solutions to our team, improving the developer experience. Moreover, Aiden's positive attitude is a breath of fresh air that uplifts our team morale. He's a team player through and through, always willing to lend a hand or clarify complex ideas in a way that's easy to understand.<strong> His technical abilities, combined with his cooperative approach, make him a valuable member of any team.</strong></td>
   </tr>
 </table>
+
+<p align="center">🎉 If you're hiring, let's chat! 🎉</p>
+
+
+#### Get In Touch 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@aidenberzins.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+](https://www.linkedin.com/in/aidenberzins/)
 
 ### Technologies
 
