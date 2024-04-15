@@ -30,17 +30,6 @@
 </table>
 
 
-
-### Get In Touch 
-<p>🎉 If you're hiring, let's chat! 🎉</p>
-  <a href="mailto:me@aidenberzins.com" target="_blank">
-    <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Aiden Berzins' GMail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aidenberzins/" target="_blank">
-    <img src ="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Aiden Berzins' LinkedIn" />
-  </a>
-
-
 ## Technologies
 
 ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
